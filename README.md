@@ -60,12 +60,10 @@ Railway
 
 Heroku
 
-Just upload your app.py, requirements.txt, and this README.md, then deploy with one click!
 
-💡 Example Screenshot
 
 ❤️ About
-Built with Streamlit & Folium by [Your Name].
+Built with Streamlit & Folium by [Syed Ahamed Ali].
 Powered by Open-Meteo API for free and accurate weather data.
 
 📜 License
